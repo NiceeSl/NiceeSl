@@ -6,7 +6,7 @@ Java Developer
 
 I started studying programming at school with Pascal, and then managed to try Swift for IOS development, but finally I tried Java, which I have been successfully studying for 4 years now
 
-*   🌍  I'm based in Obninsk
+*   🌍  I'm based in Bryansk
 *   ✉️  You can contact me at [gerasimov\_slavik@inbox.ru](mailto:gerasimov_slavik@inbox.ru)
 *   🚀  I'm currently working on [AR SOFT](https://vr-arsoft.com)
 *   🤝  I'm open to collaborating on interesting projects
